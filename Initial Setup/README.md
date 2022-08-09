@@ -1,3 +1,8 @@
+# Initial Setup
+1) [Connecting Cables to the Dobot Magician](#connecting-cables-to-the-dobot-magician)  
+2) [Installing Dobot Studio](#installing-dobot-studio) <br />
+3) [Verifying the Dobot Magician Driver](#verifying-the-dobot-magician-driver) <br />
+
 ## Connecting Cables to the Dobot Magician
 **Step 1:** Connect the Dobot Magician to your system through the USB Cable provided in the set.
 <p align="center">
