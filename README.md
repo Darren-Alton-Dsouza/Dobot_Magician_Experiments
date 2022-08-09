@@ -1,6 +1,6 @@
 # [Dobot Magician](https://en.dobot.cn/products/education/magician.html)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47444101/183492350-f00ab8fe-537c-4e52-ac50-b23d57754494.png">
+  <img src="https://user-images.githubusercontent.com/47444101/183492350-f00ab8fe-537c-4e52-ac50-b23d57754494.png" title="Dobot Magician">
 </p>
 
 ## Overview
@@ -11,4 +11,10 @@
 - It applies to major international standards like CE, RoHS, ERP, FCC, KC, PSE, TELEC, etc.
 - It is compatible to develop user applications with its 13 I/O ports, API, and released protocols. It can be developed with several programming languages, ROS, PLC, Microcontroller and Arduino.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71221825/183623925-a160953c-3376-4b7a-a1ac-9662f4a5ed90.png" title="Communication Interface">
+</p>
+
 ## Specifications
+
+
