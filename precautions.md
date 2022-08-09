@@ -1,3 +1,4 @@
+# Precautions
 1)	Please make the Dobot Magician in the workspace with a 45° angle between the Forearm and Rear Arm (as shown in the figure below) before starting up. If the LED indicator turns red after starting up, it indicates that the Dobot Magician is at a limited position. Please make the Dobot Magician in the workspace. 
 <br />
 <p align="center">
