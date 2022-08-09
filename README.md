@@ -3,6 +3,10 @@
   <img src="https://user-images.githubusercontent.com/47444101/183492350-f00ab8fe-537c-4e52-ac50-b23d57754494.png" title="Dobot Magician">
 </p>
 
+## Table of Contents  
+[Overview](#overview)  
+[Specifications](#specifications) <br />
+
 ## Overview
 - A multipurpose desktop robotic arm for practical training and instruction is called DOBOT Magician. 
 - When it is equipped with various end-tools, it can carry out fascinating tasks like 3D printing, laser engraving, writing, and sketching. 
@@ -17,4 +21,34 @@
 
 ## Specifications
 
+| Parameter  |  Value |
+| ------------- | ------------- |
+| Number of Axes  |  4  |
+| Payload | 500 g  |
+| Max. Reach | 320 mm  |
+| Position Repeatability (Control) | 0.2 mm  |
+| Communication | USB/ WiFi/ Bluetooth  |
+| Power Supply| 100V-240V, 50/60 Hz  |
+| Power In | 12V / 7A DC  |
+| Consumption | 60W Max  |
+| Working Temperature | -10°C to 60°C |
 
+<p align="center">
+  <img width="" height="" src="https://user-images.githubusercontent.com/47444101/183633548-1ee0ca18-a11a-4530-ba65-f78d573a6a04.png" title="Front and top view">
+</p>
+
+### Axis Movement
+
+| Axis  |  Range | Max Speed (250g workload) | 
+| ------------- | :-------------: | :-------------: |
+| Joint 1 (base) |  -135° to +135° | 320°/s |
+| Joint 2 (rear arm) |  0° to +85°| 320°/s |
+| Joint 3 (forearm) | -10° to +95° | 320°/s |
+| Joint 4 (rotation servo)| +90° to -90° | 480°/s |
+
+### End Effectors
+ - 3D Printer Kit (0.1 mm PLA)
+ - Laser (405 nm blue laser)
+ - Pen holder (10 mm diameter)
+ - Vacuum suction cap (-35 Kpa)
+ - Pneumatic gripper (8 N)
