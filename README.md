@@ -10,3 +10,5 @@
 - It is low cost, small size, and easy operation, which allows every student to practice on their own. It improves the teaching efficiency dramatically. It can be controlled by Programming, APP, Bluetooth, WiFi, Mouse, and more.
 - It applies to major international standards like CE, RoHS, ERP, FCC, KC, PSE, TELEC, etc.
 - It is compatible to develop user applications with its 13 I/O ports, API, and released protocols. It can be developed with several programming languages, ROS, PLC, Microcontroller and Arduino.
+
+## Specifications
