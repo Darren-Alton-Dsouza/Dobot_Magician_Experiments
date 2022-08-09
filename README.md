@@ -6,6 +6,14 @@
 ## Table of Contents  
 [Overview](#overview)  
 [Specifications](#specifications) <br />
+[Precautionary Measures](./precautions.md) <br />
+[Initial Setup](./Initial%20Setup/README.md)
+#### Experiments
+  - [Teach and Playback](./Teach%20and%20Playback)
+  - [Write and Draw](./Write%20and%20Draw)
+  - [Blockly Program](./Blockly%20Program)
+  - [Pick and Place – Suction Gripper](./Pick%20and%20Place%20–%20Suction%20Gripper)
+  - [Pick and Place – Finger Gripper](./Pick%20and%20Place%20–%20Finger%20Gripper)
 
 ## Overview
 - A multipurpose desktop robotic arm for practical training and instruction is called DOBOT Magician. 
