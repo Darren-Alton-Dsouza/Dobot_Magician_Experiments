@@ -4,3 +4,6 @@ In this experiment a basic pick and place task has been performed using a pneuma
 <p align="center">
   <img width="" height="" src="https://user-images.githubusercontent.com/47444101/185764685-ece7dcaa-c56c-4432-aafd-72057dc0761b.png" title="Blockly program for Pick and Place using Suction Gripper">
 </p>
+
+### Realtime Implementation
+[![Teach and Playback](https://img.youtube.com/vi/92QlCGwCkXs/0.jpg)](https://youtu.be/92QlCGwCkXs)
