@@ -20,9 +20,5 @@ In this experiment the robot has been taught to write and draw symbols
 </p>
 <br />
 
-### Result
-<p align="center">
-  <img width="" height="" src="https://user-images.githubusercontent.com/47444101/185764592-abc7b5d4-73e1-4467-a6a0-760a2c79d245.png" title="Result">
-</p>
-<br />
-
+### Realtime Implementation
+[![Teach and Playback](https://img.youtube.com/vi/yOtfs_LQdRk/0.jpg)](https://youtu.be/yOtfs_LQdRk)
