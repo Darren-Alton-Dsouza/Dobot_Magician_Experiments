@@ -40,3 +40,7 @@ The 3D plot of the workspace has been highlighted below , it indicates the path 
 <p align="center">
   <img width="" height="" src="https://user-images.githubusercontent.com/47444101/185763793-c2f01803-c884-4fca-bdc9-7b608e692f18.png" title="Workspace Plot">
 </p>
+
+### Realtime Implementation
+[![Teach and Playback](https://img.youtube.com/vi/IIyR91HPgsE/0.jpg)](https://youtu.be/IIyR91HPgsE)
+
