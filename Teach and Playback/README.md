@@ -35,6 +35,7 @@ The robot then follows these waypoints on commanding it through playback functio
 </p>
 <br />
 
+### Graphical Analysis
 The 3D plot of the workspace has been highlighted below , it indicates the path swept by the robot while performing the task based on the four input positions.
 <p align="center">
   <img width="" height="" src="https://user-images.githubusercontent.com/47444101/185763793-c2f01803-c884-4fca-bdc9-7b608e692f18.png" title="Workspace Plot">
