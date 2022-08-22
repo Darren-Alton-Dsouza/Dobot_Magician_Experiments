@@ -3,6 +3,11 @@
   <img src="https://user-images.githubusercontent.com/47444101/183492350-f00ab8fe-537c-4e52-ac50-b23d57754494.png" title="Dobot Magician">
 </p>
 
+## [Experimentation video](https://youtube.com/watch?v=b8mPO83Yg0A)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=b8mPO83Yg0A"> <img src="https://img.youtube.com/vi/b8mPO83Yg0A/0.jpg" alt="Experimentation video"></a>
+</div>
+
 ## Table of Contents  
 [Overview](#overview)  
 [Specifications](#specifications) <br />
