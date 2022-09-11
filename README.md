@@ -8,6 +8,10 @@
   <a href="https://www.youtube.com/watch?v=b8mPO83Yg0A"> <img src="https://img.youtube.com/vi/b8mPO83Yg0A/0.jpg" alt="Experimentation video"></a>
 </div>
 
+## Team members:
+- [Darren Alton Dsouza](https://in.linkedin.com/in/darren-d-souza-189b251a4)
+- [Mukil Saravanan](https://www.linkedin.com/in/mukil-saravanan-18800285/)
+
 ## Table of Contents  
 [Overview](#overview)  
 [Specifications](#specifications) <br />
